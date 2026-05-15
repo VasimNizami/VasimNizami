@@ -1,94 +1,68 @@
-# 🌟 Vasimuddin Nizami (Vasim) 🌟
+<h1 align="center">Vasimuddin Nizami</h1>
+<p align="center"><strong>Founder, BuzyBytes</strong> · Helping clinics & service businesses in the UK and Ireland grow with websites, ads, and automation that actually convert.</p>
 
-**Web Developer | MERN Stack Expert**  
-
----
-
-## 👋 About Me
-
-Hey there! I'm Vasim, a passionate web developer specializing in the MERN stack. With a strong background in telecom and healthcare, I love creating efficient and scalable web applications. Currently, I'm freelancing and always eager to take on new challenges.
-
----
-
-## 🛠️ Core Skills
-
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![ES6](https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-4A90E2?style=for-the-badge&logo=api&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microservices&logoColor=white)
+<p align="center">
+  <a href="https://www.buzybytes.com/"><img src="https://img.shields.io/badge/Visit-BuzyBytes.com-2ea043?style=for-the-badge" alt="BuzyBytes Website"/></a>
+  <a href="mailto:connect@buzybytes.com"><img src="https://img.shields.io/badge/Email-connect@buzybytes.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/919054905420"><img src="https://img.shields.io/badge/WhatsApp-Book_a_Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
 
 ---
 
-## 🚀 Experience
+## 👋 Who I work with
 
-### Freelance Web Developer
-*February 2024 - Present*  
-- 💼 Open for freelancing projects
-- 🛠️ Specializing in MERN stack applications
-- 📈 Providing scalable and efficient web solutions
+I run **[BuzyBytes](https://www.buzybytes.com/)** — a small, focused agency that helps **clinics and service-based businesses** in the **UK and Ireland** turn their websites and ad spend into booked appointments and qualified leads.
 
-### Associate Consultant at Infosys Ltd
-*June 2023 - February 2024*  
-- 🛠️ Led NodeJS API design & GraphQL queries for Sysco Foods
-- 🔍 Authored robust automated test cases for APIs
-- 📈 Enhanced system performance and scalability
-
-### Software Engineer at WebCodeGenie Pvt Ltd
-*July 2020 - May 2023*  
-- 🎯 Developed a role-based call center app (Nimbus Calling)
-- 📊 Implemented a real-time dashboard with graphs
-- 💡 Built features for a remote hiring app (CodersHub)
+If you're a clinic owner, founder, or operations lead tired of agencies that send vague reports and don't move the needle — we should talk.
 
 ---
 
-## 🎓 Education
+## 💼 What BuzyBytes does
 
-**Master of Computer Applications (MCA)**  
-GLS College of Computer Application  
-*2018 - 2020*
+> One partner for your website, your ads, and the automations that connect them.
 
-**Bachelor of Computer Application (BCA)**  
-Lokmanya College of Computer Application  
-*2015 - 2018*
+| 🌐 Web Development | 📈 Performance Marketing | ⚙️ Business Automation |
+| :--- | :--- | :--- |
+| Conversion-focused websites built to rank, load fast, and book patients. | Google Ads & Meta Ads campaigns managed by an operator, not a dashboard-watcher. | Booking automation, WhatsApp/SMS follow-ups, and lead-nurturing systems that work while you sleep. |
 
 ---
 
-## 🏆 Certifications
+## 🏥 Trusted by healthcare brands
 
-- 📜 Infosys Global Agile Certification
-- 📜 Infosys CPQ Developer Certification
+- **MyDocs Clinic** — Multi-location campaign management across **Naas, Newbridge, Prosperous, and Glenageary**.
+- **Zealous Clinic** — Full-funnel Google Ads strategy with monthly performance reporting.
 
----
-
-## 📫 Let's Connect!
-
-- **Email:** [nizamivasim3@gmail.com](mailto:nizamivasim3@gmail.com)
-- **LinkedIn:** [Vasimuddin Nizami](https://www.linkedin.com/in/vasimuddin-nizami-863915161)
-- **Location:** Ahmedabad, Gujarat, India
+Every client gets a **plain-English monthly report** on the 11th — no jargon, just what worked, what didn't, and what's next.
 
 ---
 
-## 🌐 Let's Collaborate!
+## 🚀 Currently building
 
-I'm open for freelancing and exciting projects. Feel free to reach out if you want to collaborate on something awesome!
-
----
-
-**Visit my [GitHub Profile](https://github.com/VasimNizami)**
+**[Cohabi](https://cohabi.ie)** — a trusted roommate and room-sharing platform for Ireland. Solving the housing crisis one verified match at a time.
 
 ---
 
+## 🧠 Background
+
+8+ years shipping production software before going full-time on the agency:
+
+- **Freelance & BuzyBytes** — *Feb 2024 – Present*
+- **Associate Consultant, Infosys** — *Jun 2023 – Feb 2024* · Led Node.js & GraphQL API design for **Sysco Foods**.
+- **Software Engineer, WebCodeGenie** — *Jul 2020 – May 2023* · Built **Nimbus Calling** (role-based call-center app with real-time dashboards) and **CodersHub** (remote hiring platform).
+
+**Stack:** Next.js · NestJS · Node.js · React · MongoDB · GraphQL · Vercel
+
+---
+
+## 📬 Let's talk
+
+Whether you need more patients through the door, a website that actually converts, or automations to stop chasing leads manually — book a call and I'll tell you straight whether we can help.
+
+<p>
+  🌐 <a href="https://www.buzybytes.com/"><strong>buzybytes.com</strong></a><br/>
+  ✉️ <a href="mailto:connect@buzybytes.com">connect@buzybytes.com</a><br/>
+  🇮🇪 <a href="tel:+353879811807">+353 87-981-1807</a><br/>
+  🇮🇳 <a href="tel:+919054905420">+91 9054-9054-20</a>
+</p>
+
+<sub>📍 Based in Ahmedabad · Serving clients across Ireland & the UK</sub>
